@@ -1,6 +1,7 @@
 # Super Force Dimensional Analysis
 
 Welcome to the repository where theoretical physics meets rigorous scrutiny! This project delves into the fascinating realm of the Super Force theory, a conceptual framework that seeks to unify the fundamental forces of nature at the Planck scale.
+![DALL·E 2023-11-05 12 06 23 - Create an artistic representation of the theoretical concept of the Super Force, illustrating an array of galactic bodies like stars, planets, and neb](https://github.com/ConsciousEnergy/Super-Force-Analysis/assets/23019934/cc904814-1f2c-4ebd-8bd9-1de7408caf1a)
 
 ## Overview
 
