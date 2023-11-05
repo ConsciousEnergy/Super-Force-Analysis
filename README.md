@@ -11,8 +11,8 @@ The Super Force theory posits a unified field at the Planck scale, where the str
 
 - `Super_Force_Analysis.ipynb`: A Jupyter notebook containing the detailed dimensional analysis of the Super Force theory's equations.
 - `Dimensional_Analysis_Results.md`: A markdown file summarizing the dimensional analysis results.
-- `Experimental_Designs/`: A directory proposing experimental setups and simulations for empirical testing.
-- `Literature_Review/`: A collection of scientific papers and articles relevant to the Super Force theory and dimensional analysis.
+- `Experimental_Designs.md/`: A directory proposing experimental setups and simulations for empirical testing.
+- `Literature_Review.md/`: A collection of scientific papers and articles relevant to the Super Force theory and dimensional analysis.
 
 ## Dimensional Analysis Highlights
 
