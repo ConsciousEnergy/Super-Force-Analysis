@@ -2,7 +2,7 @@
 
 ---
 
-# LENR Experiment to Explore the Super Force
+## LENR Experiment to Explore the Super Force
 
 ## Introduction
 
@@ -10,7 +10,7 @@ This document outlines an experimental design for a Low Energy Nuclear Reaction 
 
 ## Hypothesis
 
-The hypothesis is that LENR experiments, which involve lattice-assisted nuclear reactions at relatively low temperatures, may exhibit signs of a unifying field that integrates the four fundamental forces of nature. This could manifest as unexpected energy yields or novel particle interactions that cannot be fully explained by conventional physics.
+The hypothesis is that LENR experiments, which involve condensed matter hydrogen, may exhibit signs of a unifying field that integrates the four fundamental forces of nature. This could manifest as unexpected energy yields or novel particle interactions that cannot be fully explained by conventional physics.
 
 ## Materials and Apparatus
 
