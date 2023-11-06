@@ -59,6 +59,7 @@ Insights into forums and community discussions where the Super Force has been a 
 An overview of social media posts and blog entries that discuss the Super Force, highlighting any significant contributions or discussions that have taken place in these informal settings.
 - [Is There One All Powerful SUPERFORCE Controlling The Universe? - YouTube](https://youtube.com/watch?v=uBk-Wst_7aA): A video exploring the idea of a single superforce controlling the universe.
 - [The Four Fundamental Forces - IB Physics - YouTube](https://www.youtube.com/watch?v=jdgLNVwyAEc): A video lecture on the four fundamental forces, which may provide context for discussions on the Super Force.
+- [Unlocking the Secrets: Salvatore Pais, UFO Patents, Quantum Gravity - TOE with Curt Jaimungal - YouTube](https://youtu.be/5E6QyAhTB3o?si=VKTo4o0ZkNxlnhMZ)
 
 ## Criticisms and Controversies
 An examination of any criticisms, controversies, or debates surrounding the Super Force, which may provide a balanced view of the subject.
