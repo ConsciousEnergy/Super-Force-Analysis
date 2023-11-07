@@ -23,7 +23,7 @@ ET, m0, p = symbols('ET m0 p')
 Schrodinger_eq = Eq(sp.I*h_bar*diff(psi, t), -(h_bar**2/(2*m)) * diff(psi, x, 2) + V*psi)
 Dirac_eq = Eq(ET**2, m0**2 * c**4 + p**2 * c**2)
 
-# Perform dimensional analysis
+## Perform dimensional analysis
 # Note: sympy's dimensional analysis module is not suited for direct application to equations.
 # Instead, we'll check the dimensions of each term in the equations individually.
 dimensions_SF = dimsys_SI.get_dimensional_dependencies(SF)
